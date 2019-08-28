@@ -3,3 +3,5 @@ This is a Test file
 This is being tested again
 
 This is Test2
+
+This is Test 2 on Master branch
