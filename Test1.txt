@@ -5,3 +5,5 @@ This is being tested again
 This is Test2
 
 This is Test 2 on Master branch
+
+This is a new commit
